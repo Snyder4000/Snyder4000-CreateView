@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * SQL sublanguage: DDL (Data Definition Language)
+ *  SQL sublanguage: DDL (Data Definition Language)
  *
  * A VIEW in SQL is a virtual table that was created based on a SQL statement that was predefined.
  *
